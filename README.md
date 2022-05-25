@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="right"><img  width="400" height="300" src="https://user-images.githubusercontent.com/87977583/170235518-b101bf84-2392-48c6-bc50-c1289bc48849.gif" /></p>
+<p align="right"><img  width="100" height="300" src="https://user-images.githubusercontent.com/87977583/170235518-b101bf84-2392-48c6-bc50-c1289bc48849.gif" /></p>
 
 
 - 🔭 I’m currently working on **Android App**
