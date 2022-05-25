@@ -1,7 +1,11 @@
+<p align="center"><img  width="1920" height="250" src= https://user-images.githubusercontent.com/87977583/170245405-492bca29-2d05-46db-b497-fdd3ae65d091.png /></a> </p>
+
 <h1 align="center">Hi 👋, I'm Aditya Tyagi</h1>
 <h3 align="center">Frontend and Android dev who likes to keep himself busy by small side projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadi-tyagi" alt="aadi-tyagi" /></a> </p>
+<br>
+<p align="right"><img  width="400" height="300" src="https://user-images.githubusercontent.com/87977583/170235518-b101bf84-2392-48c6-bc50-c1289bc48849.gif" /></a> </p>
+
 
 - 🔭 I’m currently working on **Android App**
 
@@ -13,6 +17,11 @@
 
 - 📫 How to reach me **aktyagi075@gmail.com**
 
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadi-tyagi" alt="aadi-tyagi" /></a> </p>
+
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tyagi_ji7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyagi_ji7" height="30" width="40" /></a>
