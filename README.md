@@ -1,10 +1,9 @@
-<p align="center"><img  width="1920" height="250" src= https://user-images.githubusercontent.com/87977583/170245405-492bca29-2d05-46db-b497-fdd3ae65d091.png /></a> </p>
-
 <h1 align="center">Hi 👋, I'm Aditya Tyagi</h1>
 <h3 align="center">Frontend and Android dev who likes to keep himself busy by small side projects.</h3>
 
 <br>
-<p align="right"><img  width="400" height="300" src="https://user-images.githubusercontent.com/87977583/170235518-b101bf84-2392-48c6-bc50-c1289bc48849.gif" /></a> </p>
+
+<p align="right"><img  width="400" height="300" src="https://user-images.githubusercontent.com/87977583/170235518-b101bf84-2392-48c6-bc50-c1289bc48849.gif" /></p>
 
 
 - 🔭 I’m currently working on **Android App**
