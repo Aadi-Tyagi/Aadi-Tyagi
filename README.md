@@ -38,7 +38,7 @@
 
 <br><br>
 
-<p><img align="left" height = "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadi-tyagi&show_icons=true&locale=en&layout=compact" alt="aadi-tyagi" /></p>
+<p><img align="left" height = "200" width = "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadi-tyagi&show_icons=true&locale=en&layout=compact" alt="aadi-tyagi" /></p>
 
 <p><img align="center" height = "200" src="https://github-readme-stats.vercel.app/api?username=aadi-tyagi&show_icons=true&locale=en" alt="aadi-tyagi" /></p>
 
