@@ -17,7 +17,7 @@
 
 - 👨‍💻 Visit my personal portfolio website [Personal Portfolio](https://aadi-tyagi.github.io/Resume/)
 
-- 💬 Ask me about **Python, MySql, Linux**
+- 💬 Ask me about **Python, MySql, Linux, Java**
 
 - 📫 How to reach me **aktyagi075@gmail.com**
 
