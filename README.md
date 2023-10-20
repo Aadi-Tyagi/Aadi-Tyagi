@@ -11,9 +11,9 @@
 
 ![](https://komarev.com/ghpvc/?username=aadi-tyagi&color=brightgreen&style=plastic)
 
-- 🔭 I’m currently working on **Android App**
+- 🔭 I’m currently working on **Automation Bots**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 Visit my personal portfolio website [Personal Portfolio](https://aadi-tyagi.github.io/Resume/)
 
